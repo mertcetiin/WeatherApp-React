@@ -1,0 +1,22 @@
+body {
+    min-height: 100vh;
+    display: block;
+    background-color: azure;
+}
+
+.Day {
+    margin-left: 45%;
+}
+
+.select {
+    margin-top: -1500px;
+    margin-left: 50px;
+}
+
+select {
+    border-radius: 10px;
+    height: 30px;
+    cursor: pointer;
+    font-size: 20px;
+    color: brown;
+}
